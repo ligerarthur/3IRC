@@ -16,12 +16,12 @@ gcc fichier_output.o -o main
 Objectits : Ecrire, compiler et exécuter les programmes C.
 
 * Exercice 1.1
-	*Objectif : afficher la phrase "bonjour le monde!"
-	*Fichiers : bonjour.c, bonjour.o, bonjour
-	*Bibliothèques : stdio.h
-	*Références : PPT de cours
-	*Difficulté : Aucune
-	*Commentaires : 
+	* Objectif : afficher la phrase "bonjour le monde!"
+	* Fichiers : bonjour.c, bonjour.o, bonjour
+	* Bibliothèques : stdio.h
+	* Références : PPT de cours
+	* Difficulté : Aucune
+	* Commentaires : 
 		*Facile
 		
 * Exercice 1.2
