@@ -7,7 +7,7 @@
  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚══════╝      ╚═══╝   ╚═════╝ ╚═╝╚═╝
                                                                                
                                                              
-## Compilations des sources
+## Compilations des sources.
 1. gcc -Wall -Wextra -g -c fichier_c.c -o fichier_output.o
 2. gcc fichier_output.o -o main
  
